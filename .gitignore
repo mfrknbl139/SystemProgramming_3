@@ -1,0 +1,17 @@
+# Derleme ve geçici dosyaları hariç tut
+*.o
+*.out
+*.exe
+
+# Derlenmiş dosyaları hariç tut
+bin/
+
+# VS Code'un oluşturduğu dosyaları hariç tut
+.vscode/
+
+# Derleme ortamı dosyalarını hariç tut
+build/
+
+# Bağımlılıkları hariç tut
+*.dll
+*.so
